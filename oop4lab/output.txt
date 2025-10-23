@@ -1,0 +1,6 @@
+info
+Student: Ivan, Age: 19, University: KNU
+Actor: Role - Gamlet, Experience: 3 years
+Student: Olya, Age: 20, University: LNU
+Actor: Role - Comic, Experience: 2 years
+KVN Participant: Team - Cheerful, Performances: 5
